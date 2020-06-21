@@ -1,3 +1,8 @@
+Link to the live demo.
+
+https://anonymousict.github.io/corona-tracker/
+
+
 Hey thanks for checking out this github repo.
 
 If you want to make a version of this project I suggest checking out this youtube video.
